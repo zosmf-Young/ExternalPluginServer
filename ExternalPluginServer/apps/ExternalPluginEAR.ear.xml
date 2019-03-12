@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <archive targetInArchive="/ExternalPlugin.war">
+        <dir sourceOnDisk="/home/wuhuan/workspace/ExternalPlugin/WebContent" targetInArchive="/"/>
+        <dir sourceOnDisk="/home/wuhuan/workspace/ExternalPlugin/build/classes" targetInArchive="/WEB-INF/classes"/>
+    </archive>
+    <dir sourceOnDisk="/home/wuhuan/workspace/ExternalPluginEAR" targetInArchive="/"/>
+</archive>
